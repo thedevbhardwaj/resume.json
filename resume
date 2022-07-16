@@ -1,0 +1,82 @@
+{
+	"basics": {
+		"name": "Dev Bhardwaj",
+		"label": "Student",
+		"picture": "https://avatars.githubusercontent.com/u/100034055?s=400&u=92d24833600a9582056583675df89b297332d3e3&v=4",
+		"email": "2021kuec2015@iiitkota.ac.in",
+		"phone": "+917300428141",
+		"summary": "I'm a student of Indian Institute of Information technology,Kota (India), persuing my B.tech in Electronics & communication engineering.",
+		"location": {
+			"address": "Jaipur",
+			"postalCode": "303702",
+			"city": "Jaipur",
+			"countryCode": " India",
+			"region": "Rajasthan"
+		},
+		"profiles": [{
+				"network": "Github",
+				"username": "devbha2000",
+				"url": "https://github.com/thedevbhardwaj"
+			},
+			{
+				"network": "linkedin",
+				"username": "Dev Bhardwaj",
+				"url": "https://www.linkedin.com/in/dev-bhardwaj-308401240/"
+			},
+			{
+				"network": "Instagram",
+				"username": "devbhardwaj_22",
+				"url": "https://www.instagram.com/devbhardwaj_22/"
+			}
+		]
+	},
+
+	"education": [{
+		"institution": "Indian Institute of Information Technology,Kota",
+		"area": "Engineering",
+		"studyType": "Bachelor (hons)",
+		"startDate": "",
+		"endDate": "",
+		"gpa": "",
+		"courses": [
+			"Electronics & communication Engineering"
+		]
+	}],
+
+
+	"skills": [{
+		"name": "Full Stack Development",
+		"level": "Intermediate",
+		"keywords": [
+			"HTML",
+			"CSS",
+			"C/C++",
+			"Java",
+			"Python"
+		]
+	}],
+	"languages": [{
+		"language": "English",
+		"fluency": "Native speaker"
+	}],
+	"interests": [{
+			"name": "Singing",
+			"keywords": [
+				"vocals"
+			]
+		},
+		{
+			"name": "Writing",
+			"keywords": [
+				"literature"
+			]
+		},
+		{
+			"name": "Playing",
+			"keywords": [
+				"Cricket",
+				"Badminton"
+			]
+		}
+	]
+}
